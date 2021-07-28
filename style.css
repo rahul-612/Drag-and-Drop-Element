@@ -12,7 +12,7 @@ body{
 }
 
 .imgBox{
-    background-image: url('image.jpg');      /* kvl is line se image show ni hogi hume kisi bhi div ko display krwane k liye uski height and width set krni hoti h */
+    background-image: url('image.jpg');      
     position:relative;
     height:145px;
     width:145px;
